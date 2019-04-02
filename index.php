@@ -10,6 +10,8 @@
 <h3>
   HNG Internship 5
   <small class="text-muted">With Chika Hope</small>
+
+  <p>This is the Hotel.ng Internship for the year 2019</p>
 </h3>
 </body>
 </html>
